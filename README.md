@@ -3,7 +3,7 @@
 
 ![Yugi Mutou Embaralhando Deck](https://github.com/FelipeAugus/C/blob/main/yugi.gif)
 
-O jogo de cartas Fedaput* é um jogo baseado no Truco mineiro.
+O jogo de cartas Fedaput* é um jogo baseado no Truco mineiro. O jogador começa com uma quantia de vidas e a cada rodada deve informar quantas mesas ele vence, ao final da rodada caso ele tenha errado a quantia de mesas ele perde uma vida.
 
 O Truco possui algumas regras, mas nem todas elas são importantes para o jogo Fedaput*. É necessário apenas saber quais as cartas são jogadas no Truco, e principalmente quais as regras de valoração das cartas. Desta forma, a seguir será apresentada a sequência de valor das cartas no Truco.
 
